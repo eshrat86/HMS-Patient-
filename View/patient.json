@@ -1,0 +1,34 @@
+[
+    {
+        "patientname": "dola",
+        "age": "22",
+        "date": "29-06-2021",
+        "address": "mirpur,dhaka",
+        "doctorname": "Dr.ramiz azad",
+        "gender": "female"
+    },
+    {
+        "patientname": "dola",
+        "age": "22",
+        "date": "29-06-2021",
+        "address": "mirpur,dhaka",
+        "doctorname": "Dr.ramiz azad",
+        "gender": "female"
+    },
+    {
+        "patientname": "jolly",
+        "age": "22",
+        "date": "28-06-2021",
+        "address": "bashundhara",
+        "doctorname": "Dr.ramiz azad",
+        "gender": "female"
+    },
+    {
+        "patientname": "rakhi",
+        "age": "22",
+        "date": "27-06-2021",
+        "address": "bogura",
+        "doctorname": "Dr.ramiz azad",
+        "gender": "female"
+    }
+]
